@@ -1,9 +1,11 @@
 # awesome-avatar-generators
-Ehm, awesome avatar generators ? \_o_/
+Ehm, awesome avatar generators ? 
 
 
+# All the avatar generators! <img src='https://blog.beeminder.com/wp-content/uploads/2018/03/all-the-things.png'  alt="drawing" width="60"/>
 
-# 
+<br>
+<br>
 
  where                |    show me!  | 
 |:-------------------:|:------------------:|
