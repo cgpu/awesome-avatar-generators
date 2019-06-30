@@ -16,3 +16,5 @@ Ehm, awesome avatar generators ?
 [my octocat me!](https://myoctocat.com/) |<img src='https://pbs.twimg.com/media/Dput95TUYAE6x0D.jpg'  alt="drawing" width="200"/>
 [hexa*!](http://www.hexatar.com/) |<img src='http://www.hexatar.com/gallery/thumb/190629_013307_fb88bc03707_avatar.png'  alt="drawing" width="200"/> 
 [star-wars](https://starwarsavatar.com/) |<img src='https://starwarsavatar.com/img/selection-icons/twilek/twilek.svg'  alt="drawing" width="200"/> 
+
+[powerpuff yo self (meh)](https://powerpuffyourself.com/) |<img src='https://media1.tenor.com/images/57643f4eea0ec4328d51faf873013c2a/tenor.gif?itemid=5336003'  alt="drawing" width="200"/> 
