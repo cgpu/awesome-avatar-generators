@@ -14,3 +14,4 @@ Ehm, awesome avatar generators ?
 [tinygraphs](http://www.tinygraphs.com/) |<img src='https://www.tinygraphs.com/labs/isogrids/hexa/helloworld?theme=heatwave&numcolors=4'  alt="drawing" width="200"/>
 [avatars-dicebear](https://avatars.dicebear.com/) |<img src='https://avatars.dicebear.com/v2/female/cristinaandtjdfhdhdhdhdhdhdhdhdhdhjsjkloutwanm%2C.svg'  alt="drawing" width="200"/>
 [my octocat me!](https://myoctocat.com/) |<img src='https://pbs.twimg.com/media/Dput95TUYAE6x0D.jpg'  alt="drawing" width="200"/>
+[hexa*!](http://www.hexatar.com/) |<img src='http://www.hexatar.com/gallery/thumb/190629_013307_fb88bc03707_avatar.png'  alt="drawing" width="200"/> 
